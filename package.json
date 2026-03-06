@@ -10,7 +10,8 @@
     "preview": "vite preview",
     "predeploy":"npm run build",
 
-    "deploy":"gh-pages-d dist"
+    "deploy":"gh-pages-d dist",
+    "homepage": "https://prabhakarsenthilkumar14-svg.github.io/api_method/"
   },
   "dependencies": {
     "gh-pages": "^6.3.0",
